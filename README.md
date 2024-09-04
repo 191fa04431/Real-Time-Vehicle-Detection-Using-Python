@@ -1,19 +1,17 @@
-<samp>
-    
 # [Real-time-Vehicle-Dection-Using-Python]
 
-Hi guys, This repository consist of a source code of script to detect cars in a video/camera frame and then draw rectangaluar boxes around them.
+Hi guys, This repository consists of a source code of the script to detect cars in a video/camera frame and then draw rectangular boxes around them.
 
-The **ML algorithms** used for detecting cars and bounding boxes coordinates is a pretrained cascade model [Haarcascade car]
+The **ML algorithms** used for detecting cars and bounding box coordinates is a pre-trained cascade model [Haarcascade car] 
 
 ## Getting started
 
-Firstly we have to clone the project repository or download the zip of project and then extract it.
+Firstly we have to clone the project repository or download the zip of the project and then extract it.
 
 ```bash
-git clone https://github.com/Kalebu/Real-time-Vehicle-Dection-Python
-cd Real-time-Vehicle-Dection-Python
-Real-time-Vehicle-Dection-Python ->
+git clone https://github.com/191fa04431/Real-Time-Vehicle-Detection-Using-Python.git
+cd Real-time-Vehicle-Detection-Python
+Real-time-Vehicle-Detection-Python ->
 ```
 
 ## Dependencies
